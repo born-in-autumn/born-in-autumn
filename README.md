@@ -24,8 +24,8 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 
 **Archives**
 
-[![wakatime](https://wakatime.com/badge/user/@3862aca0-fff8-4ec1-bb62-d4b917d3effb.svg)](https://wakatime.com/@3862aca0-fff8-4ec1-bb62-d4b917d3effb)
+[![wakatime](https://wakatime.com/badge/user/3862aca0-fff8-4ec1-bb62-d4b917d3effb.svg)](https://wakatime.com/@3862aca0-fff8-4ec1-bb62-d4b917d3effb)
 
-![Cyrene's Github Stats](https://github-readme-stats.vercel.app/api?username=born-in-autumn&count_private=true&show_icons=true&include_all_commits=true)
+[![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
