@@ -24,7 +24,8 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 
 **Archives**
 
-[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=3862aca0-fff8-4ec1-bb62-d4b917d3effb)](https://wakatime.com/@3862aca0-fff8-4ec1-bb62-d4b917d3effb)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
 
