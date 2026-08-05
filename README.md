@@ -25,11 +25,11 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 **Archives**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,21 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                83 commits          ███████████░░░░░░░░░░░░░░   42.13 % 
-🌆 Daytime                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-🌃 Evening                67 commits          █████████░░░░░░░░░░░░░░░░   34.01 % 
-🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌞 Morning                83 commits          ███████████░░░░░░░░░░░░░░   42.56 % 
+🌆 Daytime                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌃 Evening                67 commits          █████████░░░░░░░░░░░░░░░░   34.36 % 
+🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   72 commits          █████████░░░░░░░░░░░░░░░░   36.55 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Saturday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Sunday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   72 commits          █████████░░░░░░░░░░░░░░░░   36.92 % 
+Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Friday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Saturday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Sunday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 ```
 
 
@@ -70,46 +70,46 @@ Sunday                   29 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Python                   5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JavaScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Python                   8 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
+TypeScript               4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 16 mins      █████████████████████████   100.00 % 
+Cursor                   18 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-biomap-huaxi-web         7 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
-shiyao-mas               5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-ASCILINE                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-obsidian-second-brain    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-uploads                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+shiyao-mas               8 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
+biomap-huaxi-web         6 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
+ASCILINE                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+corsair                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+obsidian-second-brain    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 💻 Operating System: 
-Mac                      19 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 16 mins (89.63%)
+⏱ AI Coding Time: 15 hrs 20 mins (83.47%)
 
-✍️ 1,760 lines written by AI, 324 lines written by hand (84.45% AI-written)
+✍️ 1,652 lines written by AI, 326 lines written by hand (83.52% AI-written)
 
 🔤 313,153 Input Tokens, 4,318 Output Tokens
 
 💵 $1.00 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 209 AI Prompts
+🧠 36 AI Sessions, 182 AI Prompts
 
 Composer                 198 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.45% of written lines came from AI
-📄 Detailed Prompter — average 567 characters per prompt
+🤖 AI-Driven — 83.52% of written lines came from AI
+📝 Concise Prompter — average 436 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 13.73% of changed lines were hand-edited
+🚀 High AI Trust — 15.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -129,7 +129,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:19:49 UTC
+ Last Updated on 05/08/2026 20:15:58 UTC
 <!--END_SECTION:waka-->
 
 [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
