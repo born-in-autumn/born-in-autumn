@@ -25,21 +25,21 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 **Archives**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 9.3 kB Used in GitHub's Storage 
+> 📦 9.4 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -70,56 +70,58 @@ Sunday                   29 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs               █████████████░░░░░░░░░░░░   50.33 % 
-TypeScript               3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-MDX                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Python                   9 hrs 4 mins        █████████████░░░░░░░░░░░░   51.63 % 
+TypeScript               3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 53 mins      █████████████████████████   100.00 % 
+Cursor                   17 hrs 12 mins      ████████████████████████░   97.88 % 
+Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 Projects: 
-shiyao-mas               9 hrs 36 mins       █████████████░░░░░░░░░░░░   53.74 % 
-biomap-huaxi-web         5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-ASCILINE                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-corsair                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-claude                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+shiyao-mas               9 hrs 36 mins       ██████████████░░░░░░░░░░░   54.72 % 
+biomap-huaxi-web         6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+one-hunter-vscode        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+uploads                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+obsidian-second-brain    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      17 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 19 mins (80.05%)
+⏱ AI Coding Time: 13 hrs 17 mins (75.65%)
 
-✍️ 1,514 lines written by AI, 326 lines written by hand (82.28% AI-written)
+✍️ 1,049 lines written by AI, 329 lines written by hand (76.12% AI-written)
 
-🔤 177,667 Input Tokens, 2,161 Output Tokens
+🔤 93,883 Input Tokens, 12,661 Output Tokens
 
-💵 $1.00 Estimated AI Cost This Week
+💵 $0.47 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 160 AI Prompts
+🧠 31 AI Sessions, 183 AI Prompts
 
-Composer                 135 lines           █████████████████████████   100.00 % 
+Grok                     141 lines           █████████████░░░░░░░░░░░░   51.09 % 
+Composer                 135 lines           ████████████░░░░░░░░░░░░░   48.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.28% of written lines came from AI
-📝 Concise Prompter — average 478 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 18.54% of changed lines were hand-edited
+🤖 AI-Driven — 76.12% of written lines came from AI
+📄 Detailed Prompter — average 528 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 24.76% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Rust                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Rust                     5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -129,7 +131,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:32:30 UTC
+ Last Updated on 07/08/2026 19:39:08 UTC
 <!--END_SECTION:waka-->
 
 [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
