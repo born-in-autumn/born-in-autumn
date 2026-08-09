@@ -70,48 +70,48 @@ Sunday                   29 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 4 mins        █████████████░░░░░░░░░░░░   51.63 % 
-TypeScript               3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   9 hrs 8 mins        █████████████░░░░░░░░░░░░   51.26 % 
+TypeScript               3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Other                    2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 12 mins      ████████████████████████░   97.88 % 
-Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Cursor                   17 hrs 27 mins      ████████████████████████░   97.91 % 
+Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🐱‍💻 Projects: 
-shiyao-mas               9 hrs 36 mins       ██████████████░░░░░░░░░░░   54.72 % 
-biomap-huaxi-web         6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-one-hunter-vscode        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-uploads                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-obsidian-second-brain    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+shiyao-mas               9 hrs 41 mins       ██████████████░░░░░░░░░░░   54.33 % 
+biomap-huaxi-web         6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
+one-hunter-vscode        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+uploads                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+obsidian-second-brain    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Mac                      17 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 17 mins (75.65%)
+⏱ AI Coding Time: 13 hrs 33 mins (76.0%)
 
-✍️ 1,049 lines written by AI, 329 lines written by hand (76.12% AI-written)
+✍️ 1,053 lines written by AI, 329 lines written by hand (76.19% AI-written)
 
 🔤 93,883 Input Tokens, 12,661 Output Tokens
 
 💵 $0.47 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 183 AI Prompts
+🧠 30 AI Sessions, 182 AI Prompts
 
-Grok                     141 lines           █████████████░░░░░░░░░░░░   51.09 % 
-Composer                 135 lines           ████████████░░░░░░░░░░░░░   48.91 % 
+Grok                     141 lines           █████████████░░░░░░░░░░░░   50.36 % 
+Composer                 139 lines           ████████████░░░░░░░░░░░░░   49.64 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.12% of written lines came from AI
-📄 Detailed Prompter — average 528 characters per prompt
+🤖 AI-Driven — 76.19% of written lines came from AI
+📝 Concise Prompter — average 485 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 24.76% of changed lines were hand-edited
+🚀 High AI Trust — 24.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +131,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:18:14 UTC
+ Last Updated on 09/08/2026 19:21:11 UTC
 <!--END_SECTION:waka-->
 
 [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
