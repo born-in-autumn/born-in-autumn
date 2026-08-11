@@ -6,7 +6,7 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 
 - 🔭 I'm currently building AI-driven platforms that bridge scientific research and production-grade applications.
 - 💬 Open to geeking out over system design, frontend performance, open-source workflows, or classical music — pick your poison!
-- 📫 How to reach me: 1187338299@qq.com
+- 📫 How to reach me: autumn_in_2000@foxmail.com
 - ⚡ Fun fact: I'm a hardcore HoYoverse gamer, and a piano rookie (classical pieces, < 1 year in — but totally hooked).
 - 🌍 Actively seeking **remote-first** opportunities worldwide. If my profile resonates with you, feel free to drop me an email!
 
