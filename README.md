@@ -25,11 +25,11 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 **Archives**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,50 +70,50 @@ Sunday                   30 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-TypeScript               4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TypeScript               5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.23 % 
+Markdown                 5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+CSS                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 30 mins       ███████████████████░░░░░░   75.29 % 
-Agent                    2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Claude Code              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Cursor                   12 hrs 57 mins      ████████████████████░░░░░   78.30 % 
+Agent                    2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Claude Code              1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🐱‍💻 Projects: 
-obsidian-second-brain    2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-zag                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-biomap-huaxi-web         2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-biomap-web-agent         1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-LifeOS                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+biomap-web-agent         5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
+obsidian-second-brain    2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+zag                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+biomap-huaxi-web         1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+LifeOS                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 💻 Operating System: 
-Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 18 mins (89.68%)
+⏱ AI Coding Time: 15 hrs 21 mins (92.79%)
 
-✍️ 1,408 lines written by AI, 17 lines written by hand (98.81% AI-written)
+✍️ 2,448 lines written by AI, 40 lines written by hand (98.39% AI-written)
 
-🔤 4,065,652 Input Tokens, 238,377 Output Tokens
+🔤 4,123,983 Input Tokens, 296,708 Output Tokens
 
-💵 $13.91 Estimated AI Cost This Week
+💵 $14.96 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 322 AI Prompts
+🧠 87 AI Sessions, 400 AI Prompts
 
-Grok                     1,246 lines         █████████████████████░░░░   84.82 % 
-Qwen                     197 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Composer                 26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Grok                     3,022 lines         ███████████████████████░░   93.13 % 
+Qwen                     197 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Composer                 26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.81% of written lines came from AI
-📚 Verbose Prompter — average 3,388 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 29.7% of changed lines were hand-edited
+🤖 AI-Driven — 98.39% of written lines came from AI
+📚 Verbose Prompter — average 3,463 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 17.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +133,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:18:41 UTC
+ Last Updated on 18/08/2026 19:18:13 UTC
 <!--END_SECTION:waka-->
 
 [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
