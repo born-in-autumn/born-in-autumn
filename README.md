@@ -46,21 +46,21 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          ████████░░░░░░░░░░░░░░░░░   32.10 % 
-🌆 Daytime                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌃 Evening                66 commits          ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+🌞 Morning                52 commits          ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌆 Daytime                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+🌃 Evening                66 commits          ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌙 Night                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Saturday                 41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Monday                   40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Saturday                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Sunday                   32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 ```
 
 
@@ -70,49 +70,49 @@ Sunday                   30 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
-Rust                     3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-CSS                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Rust                     7 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+TypeScript               5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Markdown                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+CSS                      1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 39 mins      █████████████████████░░░░   83.99 % 
-Agent                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Cursor                   18 hrs 13 mins      █████████████████████░░░░   84.54 % 
+Agent                    2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Claude Code              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-biomap-web-agent         7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.47 % 
-rolldown                 3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-zag                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-190829_AdminClient       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-agent-tools              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+rolldown                 9 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
+biomap-web-agent         7 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
+zag                      2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+190829_AdminClient       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+claude                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Mac                      16 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 58 mins (85.95%)
+⏱ AI Coding Time: 18 hrs 24 mins (85.39%)
 
-✍️ 3,014 lines written by AI, 61 lines written by hand (98.02% AI-written)
+✍️ 3,586 lines written by AI, 110 lines written by hand (97.02% AI-written)
 
-🔤 362,231 Input Tokens, 362,231 Output Tokens
+🔤 376,396 Input Tokens, 376,396 Output Tokens
 
-💵 $6.52 Estimated AI Cost This Week
+💵 $6.78 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 398 AI Prompts
+🧠 105 AI Sessions, 521 AI Prompts
 
-Grok                     3,887 lines         █████████████████████████   100.00 % 
+Grok                     4,470 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📚 Verbose Prompter — average 4,387 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 16.46% of changed lines were hand-edited
+🤖 AI-Driven — 97.02% of written lines came from AI
+📚 Verbose Prompter — average 3,597 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 15.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:22:00 UTC
+ Last Updated on 21/08/2026 19:18:16 UTC
 <!--END_SECTION:waka-->
 
 [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
