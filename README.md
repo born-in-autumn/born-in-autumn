@@ -5,9 +5,8 @@ Hello, I'm Cyrene. Based in Beijing, I'm a full-stack developer with 4 years of 
 My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernetes, along with other mainstream full-stack tooling.
 
 - 🔭 I'm currently building AI-driven platforms that bridge scientific research and production-grade applications.
-- 💬 Open to geeking out over system design, frontend performance, open-source workflows, or classical music — pick your poison!
+- 💬 Open to geeking out over system design, frontend performance, open-source workflows.
 - 📫 How to reach me: autumn_in_2000@foxmail.com
-- ⚡ Fun fact: I'm a hardcore HoYoverse gamer, and a piano rookie (classical pieces, < 1 year in — but totally hooked).
 - 🌍 Actively seeking **remote-first** opportunities worldwide. If my profile resonates with you, feel free to drop me an email!
 
 **Languages and Tools:** 
@@ -36,8 +35,6 @@ My core tech stack: TypeScript, React/Next.js, Python, FastAPI, Docker, Kubernet
 > 📦 9.3 kB Used in GitHub's Storage 
  > 
 > 🏆 84 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
@@ -135,6 +132,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
  Last Updated on 21/08/2026 19:18:16 UTC
 <!--END_SECTION:waka-->
 
-[![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended)
+<!-- [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended) -->
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
