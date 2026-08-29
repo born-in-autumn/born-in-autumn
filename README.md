@@ -69,47 +69,47 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 41 mins       █████████████░░░░░░░░░░░░   50.13 % 
-Rust                     5 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown                 5 hrs 31 mins       █████████████░░░░░░░░░░░░   50.91 % 
+Rust                     3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 38 mins      ██████████████████████░░░   88.89 % 
-Claude Code              1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Agent                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Cursor                   9 hrs 14 mins       █████████████████████░░░░   85.27 % 
+Claude Code              1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Agent                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🐱‍💻 Projects: 
-rolldown                 13 hrs 5 mins       █████████████████████░░░░   85.29 % 
-blitz                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-biomap-web-agent         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-biomap-huaxi-web         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+rolldown                 9 hrs 4 mins        █████████████████████░░░░   83.69 % 
+blitz                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+biomap-web-agent         40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+biomap-huaxi-web         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      15 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 50 mins (100.0%)
 
-✍️ 1,193 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,008 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,391,204 Input Tokens, 534,898 Output Tokens
+🔤 5,694,510 Input Tokens, 332,802 Output Tokens
 
-💵 $130.37 Estimated AI Cost This Week
+💵 $85.53 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 217 AI Prompts
+🧠 54 AI Sessions, 180 AI Prompts
 
-Composer                 1,120 lines         █████████████████████████   100.00 % 
+Composer                 935 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,528 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 4,874 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -130,7 +130,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:11:27 UTC
+ Last Updated on 29/08/2026 21:24:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended) -->
