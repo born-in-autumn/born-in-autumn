@@ -69,40 +69,40 @@ Sunday                   33 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ██████████████░░░░░░░░░░░   55.67 % 
-JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Rust                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               3 hrs 5 mins        ███████████████░░░░░░░░░░   58.02 % 
+JSON                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 20 mins       ████████████████████░░░░░   78.21 % 
-Agent                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Claude Code              22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Cursor                   4 hrs 20 mins       ████████████████████░░░░░   81.51 % 
+Agent                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🐱‍💻 Projects: 
-bio-computing-demo       2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
-biomap-huaxi-web         1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-biomap-web-agent         47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-claude                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-rustc_codegen_cranelift  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+bio-computing-demo       2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
+biomap-huaxi-web         1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+biomap-web-agent         47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+claude                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (82.41%)
+⏱ AI Coding Time: 4 hrs 21 mins (81.66%)
 
 ✍️ 208 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 258,035 Input Tokens, 109,903 Output Tokens
+🔤 96,861 Input Tokens, 96,861 Output Tokens
 
 💵 $1.74 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 107 AI Prompts
+🧠 26 AI Sessions, 107 AI Prompts
 
 Composer                 6 lines             █████████████████████████   100.00 % 
 
@@ -116,11 +116,11 @@ Composer                 6 lines             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-Rust                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+Rust                     5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -130,7 +130,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born-in-autumn/born-in-autumn/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 21:15:47 UTC
+ Last Updated on 05/09/2026 20:50:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended) -->
