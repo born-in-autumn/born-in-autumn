@@ -16,3 +16,11 @@ Finally, I'm currently open to new opportunities. Whether you're hiring or just 
 
 - 📫 Reach me on [X](https://x.com/HaoSeele) or [email](autumn_in_2000@foxmail.com)  
 - 😄 Pronouns: He/Him
+
+ Last Updated on 19/09/2026 19:18:16 UTC
+<!--END_SECTION:waka-->
+
+<!-- [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended) -->
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
