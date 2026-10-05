@@ -7,6 +7,8 @@
 
 ---
 I'm currently based in Beijing, China. By day, I'm a full-stack engineer with five years of experience at an startup company. By night, I'm a geek contributing to open-source projects for the Rust community. I'm interested in Compiler Engineering.
+<P></P>
+Email: autumn_in_2000@foxmail.com
 
 ---
 
