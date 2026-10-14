@@ -1,19 +1,26 @@
-👋 Hi there, I'm 0xnichts, you can call me Robin.
+<div align="center">
 
-<!-- <p align="center">
-  <a href="https://x.com/HaoSeele">X</a> •
-  <a href="https://www.linkedin.com/feed/">LinkedIn</a> 
-</p> -->
+# 👋 Hi, I'm Robin (0xnichts)
+
+**Full-stack Engineer · Rust / Compiler Enthusiast · Beijing, China**
+
+[![X](https://img.shields.io/badge/X-@HaoSeele-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HaoSeele)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Email](https://img.shields.io/badge/Email-autumn__in__2000@foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:autumn_in_2000@foxmail.com)
+
+</div>
 
 ---
-I'm currently based in Beijing, China. By day, I'm a full-stack engineer with five years of experience at an startup company. By night, I'm a geek contributing to open-source projects for the Rust community. I'm interested in Compiler Engineering.
-<P></P>
-Email: autumn_in_2000@foxmail.com
+
+- 🔭 By day: full-stack engineer with **5 years** of experience at a startup
+- 🌙 By night: geek contributing to **open-source Rust** projects
+- 🧠 Interested in **Compiler Engineering**
+- 📍 Based in **Beijing, China**
 
 ---
 
- Last Updated on 26/09/2026 19:18:16 UTC
-<!--END_SECTION:waka-->
-<!-- [![Cyrene's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cyrene)](https://github.com/stats-organization/github-stats-extended) -->
+<div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
+
+</div>
