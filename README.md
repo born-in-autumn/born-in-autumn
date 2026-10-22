@@ -20,7 +20,7 @@
 
 ---
 -->
-<div align="center">
+<div align="left">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
 
