@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 # 👋 Hi, I'm Robin (0xnichts)
@@ -24,3 +25,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
 
 </div>
+-->
