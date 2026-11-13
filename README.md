@@ -20,6 +20,7 @@
 
 ---
 -->
+> Hmm, my approach to learning must be flawed!
 <div align="left">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=born-in-autumn.born-in-autumn)
